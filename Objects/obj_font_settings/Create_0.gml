@@ -1,3 +1,0 @@
-global.flower_font = font_add_sprite_ext(spr_flower_font," *.,;':?!ABCDEFGHIJKLMNOPQRSTUVWXYZ<+->abcdeéèfghijklmnopqrstuvwxyz0123456789()[]",3,0)
-global.btl_font = font_add_sprite_ext(spr_btl_font," */ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789.,!?;'+-",3,0)
-global.menu_font = font_add_sprite_ext(spr_menu_font,":.ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890",3,1)
