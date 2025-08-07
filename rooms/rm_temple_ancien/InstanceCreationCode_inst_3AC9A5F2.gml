@@ -1,0 +1,1 @@
+room_to_save = global.rm_1

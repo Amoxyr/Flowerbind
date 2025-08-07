@@ -1,0 +1,38 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"ts_temple_ancien_sanctuaire",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"ts_temple_ancien_sanctuaire",
+  "out_columns":20,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Tile sets",
+    "path":"folders/Tile sets.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"spr_temple_ancien_mur_sanctuaire",
+    "path":"sprites/spr_temple_ancien_mur_sanctuaire/spr_temple_ancien_mur_sanctuaire.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":20,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":20,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":420,
+}

@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"nte_story",
+  "name":"nte_story",
+  "parent":{
+    "name":"Remarques",
+    "path":"folders/Remarques.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}
