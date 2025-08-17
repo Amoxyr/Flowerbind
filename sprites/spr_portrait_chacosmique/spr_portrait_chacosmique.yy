@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Chacosmique Portraits",
-    "path":"folders/Sprites/Characters/Ancient/Chacosmique/Chacosmique Portraits.yy",
+    "path":"folders/Sprites/Characters/Ancient/Cosmocat/Chacosmique Portraits.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

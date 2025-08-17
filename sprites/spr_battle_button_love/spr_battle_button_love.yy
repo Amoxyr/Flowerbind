@@ -27,7 +27,7 @@
   "origin":0,
   "parent":{
     "name":"Main Buttons",
-    "path":"folders/Battle/Battle Buttons/Main Buttons.yy",
+    "path":"folders/Sprites/A!Battle/Battle Buttons/Main Buttons.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

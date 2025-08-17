@@ -45,7 +45,7 @@
   "origin":0,
   "parent":{
     "name":"Aarch",
-    "path":"folders/Battle/Battle/energy/Aarch.yy",
+    "path":"folders/Sprites/A!Battle/Battle/energy/Aarch.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

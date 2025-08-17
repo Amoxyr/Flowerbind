@@ -28,8 +28,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Chacosmique",
-    "path":"folders/Sprites/Characters/Ancient/Chacosmique.yy",
+    "name":"Cosmocat",
+    "path":"folders/Sprites/Characters/Ancient/Cosmocat.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

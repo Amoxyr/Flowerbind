@@ -1,0 +1,53 @@
+
+  [[SFOTH]]
+
+DarkHeart(DARK)
+Illuminia(LIGHT)
+Venomshank()
+
+
+  [[AREAS]]
+
+Ancient Temple (N/A)
+Fungal Valley (FUNGAL)
+Rose District (ANIMAL)
+Upper Rose District (INSECT)
+Deep Rose District (REPTILE)
+Spring Lands (PLANT)
+Marshlands (WATER)
+Flame Town (FIRE)
+Autumn Lands (AUTUMN)
+Spiritual Garden (GHOST)
+Demon City + CORRIDOR (N/A)
+New Citadel
+Labyrinth (!!SHADOW!!)
+
+
+[+]HOUSE
+[+]MEMES
+
+  [[SOULS]]
+
+
+ [HUMAN]
+
+ORDINARY
+
+ [DEMON]
+
+!!SHADOW!!
+ORDINARY
+FUNGAL
+ANIMAL
+REPTILE
+INSECT
+PLANT
+INSECT
+WATER
+FIRE
+AUTUMN
+SAND
+GHOST
+SHADOW
+
+

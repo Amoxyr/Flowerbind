@@ -9,8 +9,8 @@
   "name":"obj_dbg_interaction",
   "overriddenProperties":[],
   "parent":{
-    "name":"Dialogue",
-    "path":"folders/Objets/Dialogue.yy",
+    "name":"A!Dialog",
+    "path":"folders/Objets/A!Dialog.yy",
   },
   "parentObjectId":null,
   "persistent":false,

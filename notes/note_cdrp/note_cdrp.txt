@@ -1,0 +1,236 @@
+[AD] wanna go to the Color RP ? Many storylines when your OC is a part of the show !
+
+
+Leaf IC:
+
+[1/4]*you meet a mysterious figure..."Hope you don't mind but could you tell me WHO THE HELL ARE YOU ?!"
+[2/4]*you present yourself."Nice to meetcha!"
+[3/4]"say, you look like a fellow entrepreneur, can i shake your hand and collect your... genius germs?"
+*Handshaked you.
+[4/4]"oh and thank you for freeing me from that bunker, we might see again theses days!"
+
+
+Leaf:
+
+!NOTE: i have nothing to do with frisk!
+
+%5%The Chaos beetween the Light and Dark%%
+
+%5%''%%
+{ %f%♥%% }
+%5%▲▼▲%%
+
+%5%|============================|%%
+
+%5%He/Him%%
+%0%LV 1%%.%7%ITEM HAVER%%
+Plant body with Entity soul.
+
+%0%LV%%: 1
+%d%ATT%%: 1
+%d%DEF%%: 1
+%8%MAG%%: 0
+%f%CHAOS%%: 50
+
+%0!%★ LEAF BOOM ★%%
+
+A %0%red leaves%% small Plant %f%Entity%%.
+He is quite a dealer and have %1%fighting skills%%, quite accrobatic so don't expect him NOT to dodge guns.
+Yet he is as %0%strong%% as %3%Gerson%%.
+Yet he is quite %f%Chaotic%%
+He is %4%Berdly%% and %2%Noelle%%'s friend.
+%3%Alvin%% found him in front of the Shelter and adopted him.
+
+ %f!%★ ENTITY ★%%
+
+An %f%Entity%% is a rare being
+with weird moves,
+Some of them have %f%CHAO%%tic flows.
+
+%1!%★ TENSION ★%%
+
+%1%★%%16%TP %f%P%%%5%a%%%f%c%%%5%i%%%f%f%%%5%y%%:
+Makes tired enemy asleep.
+
+%1%★%%16%TP %f%C%%%0%h%%%f%a%%%0%o%%%f%s%% %f%V%%%0%i%%%f%n%%%0%e%%%f%s%%:
+80 dmg,%f%CLOUDED%% if DOWN.
+
+%1%★%%30%TP %f%C%%%3%h%%%f%a%%%3%o%%%f%s%% %3%H%%%f%e%%%3%a%%%f%l%%: +70HP
+healing DARK!
+
+%1%★%%60%TP %f%A%%%c%g%%%f%a%%%c%i%%%f%n%%%c%s%%%f%t%% %c%T%%%f%o%%%c%t%%%f%a%%%c%l%%
+(Final Boss/Knight only):
+Reviews the attacks
+to the attacker.
+
+%0%!!WEIRD ROUTE!!%%
+%1%★%%200%TP %f%FATAL CHAOS%%:
+FATAL DAMAGE
+
+%4!%★ PASSIVES ★%%
+
+%0%"Leaf refuses"%%:
+Instakilled, 1HP left like
+%f%Omori%%.
+
+%2%Low HP%%: Leaf attacks have 5 additional DMG.
+
+%0%1 HP%%: Leaf attacks have 20 additional DMG.
+
+%%NOTE:He gets 30 HPs each chapters.%%
+
+
+
+==============================================================================================================
+
+
+
+Host :
+
+
+
+%d%╚--%%{  %0%♥%%  }%d%--╝%%
+%d%▲▼▲%%
+
+"Welcome to the roleplay"
+"If you are here , you are part of the story !"
+"Here are the content of the roleplay "
+-Battles where PCs and BOSSes can dodge by rolling beetween 1 and 2 .
+-4 storylines .
+-more ...
+
+
+%4!%★★★ STORYLINES ★★★%%
+
+%2!%★ LIFE ★%%
+
+In this storyline, there is a Light World.
+
+WARNING: NO LW SKIPPING
+
+%b!%★ BATTLECOURSE ★%%
+
+%f%WARNING: LW SKIPPING OBLIGATED%%
+Everyone fight each other in the 
+%0%CARDKINGDOM%%,%3%CYBERCITY%%,%1%TVBOARD%%,
+%5%SANCTUARIES%%...
+We vote for the DARKWORLD choosen !
+And the winner will have the prize.
+
+%0!%★ SHCOOL ★%%
+
+The story begins in the shcool when
+the protags go to the closet find some things asked by the teacher ... But by conicidence , they are in a Dark Worlds called Castle Town , they go to
+Card Kingdom to seal it's fountain !
+
+%3!%★ LIBRARY ★%%
+
+The story begins in the Library !
+The class have a shcool project and
+go to the Library , but in the 
+computer lab ... there is a Dark World called Cyber World !
+
+%1!%★ PARTY ★%%
+
+!WARNING: KRIS & KNIGHT NEEDED!
+The story begins at Kris's House !
+The class is invited to Kris's party, but... Kris made a Dark World called %1%TV WORLD%%!
+The protags and Kris will participate in the ruler's showand they meet the Knight...
+
+%5!%★ CHURCH ★%%
+
+!WARNING: NOELLE & KNIGHT NEEDED!
+The story begins at church !
+The whole town are going to church...
+And then the protags are exploring Hometown, going to Noelle's house,
+then they go back to church and they go a Dark World called %5%DARK SANCTUARY%% and then they seal it's fountain to go to the %5%THIRD SANCTUARY%% but the door is locked, they reoppen it and it's now %5%SECOND SANCTUARY%% and then they head to the %5%THIRD SANCTUARY%%, the Knight creates an enormous Dark Fountain and that make a Titan...
+
+
+
+
+
+============================================================================================
+
+
+
+
+Knight :
+
+
+{ %f%♥%% }
+
+
+=====================================
+
+%f%LV ???%%.%7%ROARING KNIGHT%%
+
+%1%EXP%%: ?
+%1%NEXT%% : ?
+%1%EXP%%: ?
+%5%ATT%%: ?
+%5%DEF%%: ?
+%8%MAG%%: ?
+
+%f!%★ KNIGTH OVERVIEW ★%%
+
+%1!%★ TENSION ★%%
+
+
+
+
+
+
+
+
+==========================================================================================
+
+
+
+
+
+
+%d%╚--%%{ %0%♠%% }%d%--╝%%
+
+=====================================
+
+%0%LV 5%%.%7%ARTOOPIA RULER%%
+
+=
+
+
+
+
+Strong Tenna :
+
+%d%╚--%%{ %1%♠%% }%d%--╝%%
+
+=====================================
+
+%0%LV1%%.%7%STRONG TV%%
+
+%1%EXP%%: 00
+%1%NEXT%%: 10
+%5%ATT%%: 30
+%5%DEF%%: 30
+%8%MAG%%: 10
+
+%1!%★ TENNA OVERVIEW ★%%
+
+One of the TVs. This one is a unique one, he is very %0%ambitious%% and %3%strong%%. he can persist trought the DARK WORLD. He can seal a fountain and he can beat the %0%Knight, and everyone%%. A long ago, %f%someone%% killed all of his Brothers, the tennas and especially the %0%R%%%3%G%%%5%B%% trio. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

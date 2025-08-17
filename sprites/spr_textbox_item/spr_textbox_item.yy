@@ -44,8 +44,8 @@
   },
   "origin":0,
   "parent":{
-    "name":"Dialogue",
-    "path":"folders/Objets/Dialogue.yy",
+    "name":"A!Dialog",
+    "path":"folders/Objets/A!Dialog.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

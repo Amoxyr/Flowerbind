@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"nte_fb",
+  "name":"nte_fb",
+  "parent":{
+    "name":"Remarques",
+    "path":"folders/Remarques.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

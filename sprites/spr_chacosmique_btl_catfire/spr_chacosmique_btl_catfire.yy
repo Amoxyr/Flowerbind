@@ -45,7 +45,7 @@
   "origin":0,
   "parent":{
     "name":"Chacosmique Battle",
-    "path":"folders/Sprites/Characters/Ancient/Chacosmique/Chacosmique Battle.yy",
+    "path":"folders/Sprites/Characters/Ancient/Cosmocat/Chacosmique Battle.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

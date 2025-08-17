@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"B!Inventaire",
-    "path":"folders/Objets/A!Menu/B!Inventaire.yy",
+    "path":"folders/A!Menu/B!Inventaire.yy",
   },
   "parentObjectId":null,
   "persistent":true,

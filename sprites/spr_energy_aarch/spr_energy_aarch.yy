@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"Aarch",
-    "path":"folders/Objets/A!Menu/B!Données/Aarch.yy",
+    "path":"folders/A!Menu/B!Données/Aarch.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

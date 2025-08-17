@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"Pignon",
-    "path":"folders/Objets/A!Menu/B!Données/Pignon.yy",
+    "path":"folders/A!Menu/B!Données/Pignon.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

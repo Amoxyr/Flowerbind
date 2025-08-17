@@ -45,7 +45,7 @@
   "origin":0,
   "parent":{
     "name":"A!Main",
-    "path":"folders/Objets/A!Menu/A!Main.yy",
+    "path":"folders/A!Menu/A!Main.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

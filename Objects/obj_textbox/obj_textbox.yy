@@ -11,8 +11,8 @@
   "name":"obj_textbox",
   "overriddenProperties":[],
   "parent":{
-    "name":"Dialogue",
-    "path":"folders/Objets/Dialogue.yy",
+    "name":"A!Dialog",
+    "path":"folders/Objets/A!Dialog.yy",
   },
   "parentObjectId":{
     "name":"obj_pause",

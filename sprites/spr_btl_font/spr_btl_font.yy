@@ -98,7 +98,7 @@
   "origin":0,
   "parent":{
     "name":"Battle UI",
-    "path":"folders/Battle/Battle UI.yy",
+    "path":"folders/Sprites/A!Battle/Battle UI.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -45,7 +45,7 @@
   "origin":0,
   "parent":{
     "name":"Pignon",
-    "path":"folders/Battle/Battle/energy/Pignon.yy",
+    "path":"folders/Sprites/A!Battle/Battle/energy/Pignon.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

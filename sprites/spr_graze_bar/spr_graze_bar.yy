@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"graze",
-    "path":"folders/Battle/Battle/graze.yy",
+    "path":"folders/Sprites/A!Battle/Battle/graze.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

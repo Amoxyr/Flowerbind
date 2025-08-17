@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"Battle Messages",
-    "path":"folders/Battle/Battle Messages.yy",
+    "path":"folders/Sprites/A!Battle/Battle Messages.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -1,4 +1,4 @@
-global.start_room = rm_a_tas_de_feuilles
+global.start_room = rm_a_test
 global.start_x = 160
 global.start_y = 180
 

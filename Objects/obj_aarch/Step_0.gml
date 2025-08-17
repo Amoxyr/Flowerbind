@@ -85,10 +85,10 @@ if x != xprevious or y != yprevious and !instance_exists(obj_transition)
 	for (follow_pos = follow_points -1; follow_points > 0; follow_pos--)
 	{
 		
-		player_x[follow_points] = player_x[follow_pos-1]
-		player_y[follow_points] = player_y[follow_pos-1]
+		player_x[follow_pos] = player_x[follow_pos-1]
+		player_y[follow_pos] = player_y[follow_pos-1]
 		
-		past_face[follow_points] = past_face[follow_pos-1]
+		past_face[follow_pos] = past_face[follow_pos-1]
 	}
 	
 	player_x[0] = x

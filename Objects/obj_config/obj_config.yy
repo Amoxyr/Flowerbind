@@ -11,7 +11,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"A!Configuration",
-    "path":"folders/Objets/A!Configuration.yy",
+    "path":"folders/A!Menu/A!Configuration.yy",
   },
   "parentObjectId":{
     "name":"obj_pause",

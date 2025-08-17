@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"A!Main",
-    "path":"folders/Objets/A!Menu/B!Données/A!Main.yy",
+    "path":"folders/A!Menu/B!Données/A!Main.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
